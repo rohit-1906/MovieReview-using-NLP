@@ -9,7 +9,7 @@ To run the code in this repository, you need the following dependencies:
 
 - Python (version 3.7 or higher)
 - Jupyter Notebook or JupyterLab
-- Required Python packages: pandas, numpy, scikit-learn, matplotlib, seaborn, and nltk.
+- Required Python packages: pandas, numpy, sklearn, matplotlib, seaborn, and CountVector.
 
 ## Dataset
 
