@@ -15,8 +15,8 @@ To run the code in this repository, you need the following dependencies:
 
 The IMDB dataset is a widely used dataset for sentiment analysis tasks. It contains a collection of 50,000 movie reviews from IMDB, split into 25,000 reviews for training and 25,000 reviews for testing. The reviews are labeled as positive or negative sentiment.
 
-The dataset can be downloaded from the official IMDB dataset website or accessed through various machine learning libraries like scikit-learn.
-
+The dataset can be downloaded from the official IMDB dataset website or accessed through various machine learning libraries like sk-learn.
+Download Link : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 ## Code Structure
 
 The repository contains the following files:
